@@ -1,7 +1,7 @@
 from datetime import datetime
 from car import Car
 from engine.willoughby_engine import WilloughbyEngine
-from battery.sprindler_battery import SpindlerBattery
+from battery.spindler_battery import SpindlerBattery
 
 
 class Glissade(Car):

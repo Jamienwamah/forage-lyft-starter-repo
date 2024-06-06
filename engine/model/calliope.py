@@ -1,7 +1,7 @@
 from datetime import datetime
 from car import Car
 from engine.capulet_engine import CapuletEngine
-from battery .sprindler_battery import SpindlerBattery
+from battery.spindler_battery import SpindlerBattery
 
 
 class Calliope(Car):
